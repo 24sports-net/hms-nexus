@@ -1,0 +1,66 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-06-27T09:45:00Z",
+  "notifications": [
+    {
+      "id": "1001",
+      "category": "content",
+      "type": "drafting",
+      "title": "New Drafting Added",
+      "subtitle": "Board Resolution for Buy Back of Shares",
+      "subject": "CL",
+      "icon": "drafting",
+      "color": "#8B5CF6",
+      "priority": "normal",
+      "createdAt": "2026-06-27T09:43:00Z",
+      "read": false,
+      "linkType": "post",
+      "linkId": "https://web-tester2.blogspot.com/p/buy-back-board-resolution"
+    },
+    {
+      "id": "1002",
+      "category": "content",
+      "type": "case_law",
+      "title": "New Case Law Added",
+      "subtitle": "Kesavananda Bharati v. State of Kerala",
+      "subject": "JIGL",
+      "icon": "caselaw",
+      "color": "#22C55E",
+      "priority": "important",
+      "createdAt": "2026-06-27T09:30:00Z",
+      "read": false,
+      "linkType": "post",
+      "linkId": "kesavananda-bharati"
+    },
+    {
+      "id": "1003",
+      "category": "exam",
+      "type": "pyq",
+      "title": "New PYQ Uploaded",
+      "subtitle": "CS Executive Dec 2025 Question Paper",
+      "subject": "All",
+      "icon": "pyq",
+      "color": "#F97316",
+      "priority": "normal",
+      "createdAt": "2026-06-27T08:45:00Z",
+      "read": false,
+      "linkType": "post",
+      "linkId": "cs-executive-dec-2025-pyq"
+    },
+    {
+      "id": "1004",
+      "category": "important",
+      "type": "announcement",
+      "title": "Important Update",
+      "subtitle": "ICSI released examination guidelines",
+      "subject": "All",
+      "icon": "announcement",
+      "color": "#EC4899",
+      "priority": "high",
+      "createdAt": "2026-06-26T18:30:00Z",
+      "read": false,
+      "linkType": "url",
+      "url": "https://..."
+    }
+  ]
+}
