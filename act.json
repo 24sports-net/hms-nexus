@@ -1,0 +1,11 @@
+[
+  { "year": 2015, "act": "Company Law Committee", "subject": "CL" },
+  { "year": 1872, "act": "Contract Act", "subject": "CL" , "SBILL" },
+  { "year": 2025, "act": "Income Tax Act", "subject": "CL" },
+  { "year": 2013, "act": "Companies Act", "subject": "CL" , "SBILL" },
+  { "year": 2024, "act": "BNS", "subject": "JIGL" },
+  { "year": 2024, "act": "BNSS", "subject": "JIGL" },
+  { "year": 1875, "act": "Majority Act", "subject": "CL" },
+  { "year": 2020, "act": "OSH", "subject": "SBILL" },
+  { "year": 2019, "act": "Code on Wages", "subject": "SBILL" }
+]
