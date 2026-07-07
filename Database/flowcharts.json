@@ -1,0 +1,86 @@
+{
+  "JIGL": {
+    "subject": "CL",
+    "flowCharts": [
+      {
+        "title": "Incorporation of Company",
+        "image": "images/incorporation-company.jpg"
+      },
+      {
+        "title": "Share Allotment Process",
+        "image": "images/share-allotment.jpg"
+      },
+      {
+        "title": "Issue of Shares",
+        "image": "images/issue-of-shares.jpg"
+      },
+      {
+        "title": "Board Meeting Process",
+        "image": "images/board-meeting.jpg"
+      }
+    ]
+  },
+  "CL": {
+    "subject": "CL",
+    "flowCharts": [
+      {
+        "title": "Incorporation of Company",
+        "image": "images/incorporation-company.jpg"
+      },
+      {
+        "title": "Share Allotment Process",
+        "image": "images/share-allotment.jpg"
+      },
+      {
+        "title": "Issue of Shares",
+        "image": "images/issue-of-shares.jpg"
+      },
+      {
+        "title": "Board Meeting Process",
+        "image": "images/board-meeting.jpg"
+      }
+    ]
+  },
+  "SBIL": {
+    "subject": "CL",
+    "flowCharts": [
+      {
+        "title": "Incorporation of Company",
+        "image": "images/incorporation-company.jpg"
+      },
+      {
+        "title": "Share Allotment Process",
+        "image": "images/share-allotment.jpg"
+      },
+      {
+        "title": "Issue of Shares",
+        "image": "images/issue-of-shares.jpg"
+      },
+      {
+        "title": "Board Meeting Process",
+        "image": "images/board-meeting.jpg"
+      }
+    ]
+  },
+  "CAFM": {
+    "subject": "CL",
+    "flowCharts": [
+      {
+        "title": "Incorporation of Company",
+        "image": "images/incorporation-company.jpg"
+      },
+      {
+        "title": "Share Allotment Process",
+        "image": "images/share-allotment.jpg"
+      },
+      {
+        "title": "Issue of Shares",
+        "image": "images/issue-of-shares.jpg"
+      },
+      {
+        "title": "Board Meeting Process",
+        "image": "images/board-meeting.jpg"
+      }
+    ]
+  }
+}
