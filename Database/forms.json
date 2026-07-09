@@ -141,9 +141,9 @@
     ]
   },
   "CAFM": {
-    "subject": "CL",
-    "subjectName": "Company Law",
-    "totalForms": 32,
+    "subject": "CAFM",
+    "subjectName": "Corporate Accounting and Financial Management",
+    "totalForms": 12,
     "forms": [
       {
         "formNo": "INC-1",
