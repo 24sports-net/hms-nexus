@@ -1,0 +1,90 @@
+{
+  "JIGL": [
+    {
+      "chapterNo": 1,
+      "chapter": "Meaning and Nature of Jurisprudence",
+      "pdf": "pdf/chapter1.pdf"
+    },
+    {
+      "chapterNo": 2,
+      "chapter": "Schools of Jurisprudence",
+      "pdf": "pdf/chapter2.pdf"
+    },
+    {
+      "chapterNo": 3,
+      "chapter": "Sources of Law",
+      "pdf": "pdf/chapter3.pdf"
+    },
+    {
+      "chapterNo": 4,
+      "chapter": "Administration of Justice",
+      "pdf": "pdf/chapter4.pdf"
+    }
+  ],
+  "CL": [
+    {
+      "chapterNo": 1,
+      "chapter": "Introduction to Company Law",
+      "pdf": "pdf/chapter1.pdf"
+    },
+    {
+      "chapterNo": 2,
+      "chapter": "Legal Status and Types of Registered Companies",
+      "pdf": "pdf/chapter2.pdf"
+    },
+    {
+      "chapterNo": 3,
+      "chapter": "Memorandum and Articles of Association",
+      "pdf": "pdf/chapter3.pdf"
+    },
+    {
+      "chapterNo": 4,
+      "chapter": "Oppression and Mismanagement",
+      "pdf": "pdf/chapter14.pdf"
+    },
+    {
+      "chapterNo": 5,
+      "chapter": "Corporate Restructuring and Liquidation",
+      "pdf": "pdf/chapter15.pdf"
+    }
+  ],
+  "SBIL": [
+    {
+      "chapterNo": 1,
+      "chapter": "The Indian Contract Act, 1872",
+      "pdf": "pdf/chapter1.pdf"
+    },
+    {
+      "chapterNo": 2,
+      "chapter": "Specific Relief Act, 1963",
+      "pdf": "pdf/chapter2.pdf"
+    },
+    {
+      "chapterNo": 3,
+      "chapter": "Law of Limitation",
+      "pdf": "pdf/chapter3.pdf"
+    },
+    {
+      "chapterNo": 7,
+      "chapter": "Law Relating to Evidence",
+      "pdf": "pdf/chapter7.pdf"
+    }
+  ],
+  "CAFM": [
+    {
+      "chapterNo": 1,
+      "chapter": "Overview of Financial Management",
+      "pdf": "pdf/chapter1.pdf"
+    },
+    {
+      "chapterNo": 2,
+      "chapter": "Sources of Finance",
+      "pdf": "pdf/chapter2.pdf"
+    },
+    {
+      "chapterNo": 3,
+      "chapter": "Interpretation and Analysis of Financial Statements",
+      "pdf": "pdf/chapter10.pdf"
+    }
+  ]
+}
