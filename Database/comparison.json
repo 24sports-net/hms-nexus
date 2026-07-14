@@ -47,6 +47,18 @@
           }
         ]
       }
+    ],
+    [
+      {
+        "chapterNo": 1,
+        "chapter": "Hrishikesh Company Law",
+        "comparisons": [
+          {
+            "title": "Private Company vs Public Company vs OPC",
+            "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/cl/private-public-opc.pdf"
+          }
+        ]
+      }
     ]
   ],
   "SBIL": [
