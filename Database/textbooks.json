@@ -1,6 +1,26 @@
-{
-  "JIGL": {},
-  "CL": {},
-  "SBIL": {},
-  "CAFM": {}
-}
+[
+  {
+    "subject": "JIGL",
+    "title": "Jurisprudence Textbook",
+    "edition": "2026",
+    "pdf": "pdfs/jigl-textbook.pdf"
+  },
+  {
+    "subject": "CL",
+    "title": "Company Law Textbook",
+    "edition": "2026",
+    "pdf": "pdfs/cl-textbook.pdf"
+  },
+  {
+    "subject": "SBIL",
+    "title": "Setting-up of Business, Industrial & Labour Laws Textbook",
+    "edition": "2026",
+    "pdf": "pdfs/sbil-textbook.pdf"
+  },
+  {
+    "subject": "CAFM",
+    "title": "Corporate Accounting & Financial Management Textbook",
+    "edition": "2026",
+    "pdf": "http://raw.githubusercontent.com/24sports-net/hms-nexus-database/main/texts/pdf/CAFM-textbook.pdf"
+  }
+]
