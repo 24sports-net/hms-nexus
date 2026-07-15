@@ -1,0 +1,358 @@
+{
+  "JIGL": [
+    {
+      "subject": "JIGL",
+      "chapterNo": 1,
+      "chapter": "Meaning and Nature of Jurisprudence",
+      "maxTime": 1200,
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which of the following best defines Jurisprudence?",
+          "options": [
+            "Science of Law",
+            "Science of Economics",
+            "Science of Politics",
+            "Science of Commerce"
+          ],
+          "answer": "Science of Law"
+        },
+        {
+          "questionNo": 2,
+          "question": "Who is regarded as the Father of Analytical School of Jurisprudence?",
+          "options": [
+            "John Austin",
+            "Savigny",
+            "Roscoe Pound",
+            "Salmond"
+          ],
+          "answer": "John Austin"
+        },
+        {
+          "questionNo": 3,
+          "question": "Jurisprudence is primarily the study of:",
+          "options": [
+            "Law",
+            "Medicine",
+            "Physics",
+            "Chemistry"
+          ],
+          "answer": "Law"
+        }
+      ]
+    },
+    {
+      "subject": "JIGL",
+      "chapterNo": 2,
+      "chapter": "Schools of Jurisprudence",
+      "maxTime": 1200,
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Who is regarded as the founder of the Analytical School of Jurisprudence?",
+          "options": [
+            "John Austin",
+            "Savigny",
+            "Roscoe Pound",
+            "Bentham"
+          ],
+          "answer": "John Austin"
+        },
+        {
+          "questionNo": 2,
+          "question": "The Historical School of Jurisprudence is mainly associated with:",
+          "options": [
+            "Savigny",
+            "Austin",
+            "Kelsen",
+            "Salmond"
+          ],
+          "answer": "Savigny"
+        },
+        {
+          "questionNo": 3,
+          "question": "The Sociological School primarily emphasizes:",
+          "options": [
+            "Law as a social institution",
+            "Law as the command of the sovereign",
+            "Law based only on customs",
+            "Law as moral philosophy"
+          ],
+          "answer": "Law as a social institution"
+        },
+        {
+          "questionNo": 4,
+          "question": "Who propounded the theory of 'Law as a Command of the Sovereign'?",
+          "options": [
+            "John Austin",
+            "Roscoe Pound",
+            "Savigny",
+            "Holland"
+          ],
+          "answer": "John Austin"
+        },
+        {
+          "questionNo": 5,
+          "question": "Roscoe Pound is associated with which school of jurisprudence?",
+          "options": [
+            "Sociological School",
+            "Historical School",
+            "Analytical School",
+            "Natural School"
+          ],
+          "answer": "Sociological School"
+        },
+        {
+          "questionNo": 6,
+          "question": "According to Savigny, law develops through:",
+          "options": [
+            "Volksgeist (Spirit of the People)",
+            "Acts of Parliament",
+            "Judicial precedents only",
+            "Royal decrees"
+          ],
+          "answer": "Volksgeist (Spirit of the People)"
+        },
+        {
+          "questionNo": 7,
+          "question": "The Natural School believes that law is based on:",
+          "options": [
+            "Reason and morality",
+            "Commands of the sovereign",
+            "Economic factors",
+            "Customs alone"
+          ],
+          "answer": "Reason and morality"
+        },
+        {
+          "questionNo": 8,
+          "question": "Which school considers law as an instrument of social engineering?",
+          "options": [
+            "Sociological School",
+            "Analytical School",
+            "Historical School",
+            "Natural School"
+          ],
+          "answer": "Sociological School"
+        },
+        {
+          "questionNo": 9,
+          "question": "Who is known as the Father of Historical School of Jurisprudence?",
+          "options": [
+            "Savigny",
+            "Austin",
+            "Bentham",
+            "Salmond"
+          ],
+          "answer": "Savigny"
+        },
+        {
+          "questionNo": 10,
+          "question": "Which school argues that customs are the primary source of law?",
+          "options": [
+            "Historical School",
+            "Analytical School",
+            "Sociological School",
+            "Realist School"
+          ],
+          "answer": "Historical School"
+        }
+      ]
+    }
+  ],
+  "CL": [
+    {
+      "subject": "CL",
+      "chapterNo": 1,
+      "chapter": "Introduction to Company Law",
+      "maxTime": 1200,
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "The Companies Act, 2013 came into force replacing which Act?",
+          "options": [
+            "Companies Act, 1956",
+            "Indian Companies Act, 1913",
+            "Limited Liability Partnership Act, 2008",
+            "Partnership Act, 1932"
+          ],
+          "answer": "Companies Act, 1956"
+        },
+        {
+          "questionNo": 2,
+          "question": "A company is considered a:",
+          "options": [
+            "Separate legal entity",
+            "Partnership",
+            "Trust",
+            "Co-operative Society"
+          ],
+          "answer": "Separate legal entity"
+        },
+        {
+          "questionNo": 3,
+          "question": "Which of the following is NOT a characteristic of a company?",
+          "options": [
+            "Unlimited liability of members",
+            "Perpetual succession",
+            "Separate legal entity",
+            "Common seal (optional)"
+          ],
+          "answer": "Unlimited liability of members"
+        },
+        {
+          "questionNo": 4,
+          "question": "The doctrine established in Salomon v. Salomon & Co. Ltd. relates to:",
+          "options": [
+            "Separate legal entity",
+            "Indoor management",
+            "Constructive notice",
+            "Ultra vires"
+          ],
+          "answer": "Separate legal entity"
+        },
+        {
+          "questionNo": 5,
+          "question": "Which of the following is governed by the Companies Act, 2013?",
+          "options": [
+            "Companies",
+            "Partnership Firms",
+            "Trusts",
+            "Societies"
+          ],
+          "answer": "Companies"
+        }
+      ]
+    }
+  ],
+  "SBIL": [
+    {
+      "subject": "SBIL",
+      "chapterNo": 1,
+      "chapter": "Setting Up of Business",
+      "maxTime": 1200,
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "The first step in setting up a business is:",
+          "options": [
+            "Selection of business idea",
+            "Recruitment of employees",
+            "Opening a bank account",
+            "Preparing financial statements"
+          ],
+          "answer": "Selection of business idea"
+        },
+        {
+          "questionNo": 2,
+          "question": "Which form of business has separate legal status?",
+          "options": [
+            "Company",
+            "Sole Proprietorship",
+            "HUF",
+            "Partnership Firm"
+          ],
+          "answer": "Company"
+        },
+        {
+          "questionNo": 3,
+          "question": "The main objective of a feasibility study is to:",
+          "options": [
+            "Assess business viability",
+            "Prepare annual accounts",
+            "Calculate tax",
+            "Recruit directors"
+          ],
+          "answer": "Assess business viability"
+        },
+        {
+          "questionNo": 4,
+          "question": "A business plan is primarily prepared to:",
+          "options": [
+            "Guide the business",
+            "Audit accounts",
+            "File income tax return",
+            "Conduct board meetings"
+          ],
+          "answer": "Guide the business"
+        },
+        {
+          "questionNo": 5,
+          "question": "Which factor is most important while selecting a business location?",
+          "options": [
+            "Availability of resources",
+            "Favourite colour of owner",
+            "Personal hobbies",
+            "Office furniture"
+          ],
+          "answer": "Availability of resources"
+        }
+      ]
+    }
+  ],
+  "CAFM": [
+    {
+      "subject": "CAFM",
+      "chapterNo": 1,
+      "chapter": "Accounting Principles",
+      "maxTime": 1200,
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Accounting is mainly concerned with:",
+          "options": [
+            "Recording financial transactions",
+            "Manufacturing goods",
+            "Selling products",
+            "Preparing legal documents"
+          ],
+          "answer": "Recording financial transactions"
+        },
+        {
+          "questionNo": 2,
+          "question": "The accounting equation is:",
+          "options": [
+            "Assets = Liabilities + Capital",
+            "Assets = Income - Expenses",
+            "Capital = Assets + Liabilities",
+            "Profit = Assets - Liabilities"
+          ],
+          "answer": "Assets = Liabilities + Capital"
+        },
+        {
+          "questionNo": 3,
+          "question": "Which accounting concept assumes a business will continue for the foreseeable future?",
+          "options": [
+            "Going Concern",
+            "Money Measurement",
+            "Matching",
+            "Dual Aspect"
+          ],
+          "answer": "Going Concern"
+        },
+        {
+          "questionNo": 4,
+          "question": "Which financial statement shows the financial position of a business?",
+          "options": [
+            "Balance Sheet",
+            "Cash Book",
+            "Journal",
+            "Trial Balance"
+          ],
+          "answer": "Balance Sheet"
+        },
+        {
+          "questionNo": 5,
+          "question": "The Double Entry System is based on:",
+          "options": [
+            "Dual Aspect Concept",
+            "Historical Cost Concept",
+            "Business Entity Concept",
+            "Prudence Concept"
+          ],
+          "answer": "Dual Aspect Concept"
+        }
+      ]
+    }
+  ]
+}
