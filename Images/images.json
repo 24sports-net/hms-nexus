@@ -1,7 +1,7 @@
 {
-  "red": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/result-poor.png",
-  "orange": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/result-average.png",
-  "teal": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/result-good.png",
-  "green": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/result-great.png",
-  "yellow": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/result-excellent.png"
+  "red": "https://cdn.jsdelivr.net/gh/24sports-net/hms-nexus@main/Images/img/result-poor.png",
+  "orange": "https://cdn.jsdelivr.net/gh/24sports-net/hms-nexus@main/Images/img/result-average.png",
+  "teal": "https://cdn.jsdelivr.net/gh/24sports-net/hms-nexus@main/Images/img/result-good.png",
+  "green": "https://cdn.jsdelivr.net/gh/24sports-net/hms-nexus@main/Images/img/result-great.png",
+  "yellow": "https://cdn.jsdelivr.net/gh/24sports-net/hms-nexus@main/Images/img/result-excellent.png"
 }
